@@ -1,4 +1,3 @@
-Aquí tienes el README modificado para reflejar tu propósito de aprendizaje con Next.js:
 
 ---
 
@@ -41,4 +40,3 @@ Consulta nuestra [documentación de despliegue de Next.js](https://nextjs.org/do
 
 --- 
 
-Este README refleja que el proyecto es parte de tu aprendizaje de Next.js.
