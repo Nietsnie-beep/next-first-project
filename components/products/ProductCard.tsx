@@ -12,7 +12,7 @@ const ProductCard = ({product} : ProductCardProps) => {
             width={400}
             height={500}
             src={`/products/${product.image}.jpg` }
-            alt={`Imagen platillo ${product.name}`}
+            alt={`Imagen platillo 3 ${product.name}`}
             quality={75}
         />
       <div className="p-5">
